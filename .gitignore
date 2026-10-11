@@ -1,0 +1,12 @@
+# Python Environment Defaults
+.venv/
+venv/
+pyvenv.cfg
+
+# Python Execution Caching
+__pycache__/
+*.py[cod]
+
+# IDE Configuration Defaults
+.vscode/
+
